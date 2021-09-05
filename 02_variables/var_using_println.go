@@ -11,5 +11,5 @@ func main(){
 	fmt.Println("pi =", pi)
 	fmt.Println("num =", num)
 	fmt.Println("lang =",language)
-	fmt.Println("available =",available)
+	fmt.Print("available =",available)
 }
