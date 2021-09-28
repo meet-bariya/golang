@@ -22,3 +22,7 @@ func max(n1, n2 int) int {
    }
    return result 
 }
+
+func (){
+   fmt.Println("Anonymous Function")
+}()
